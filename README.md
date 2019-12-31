@@ -1,2 +1,2 @@
-# Digger
+# DIGGER
 Digging
